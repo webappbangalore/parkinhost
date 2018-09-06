@@ -1,0 +1,30 @@
+{
+  "name": "parkinhost.com",
+  "version": "1.0.0",
+  "description": "ParkInhost Website Development",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "webapp.bangalore",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webappbangalore/parkinhost.git"
+  },
+  "keywords": [
+    "webhosting"
+  ],
+  "bugs": {
+    "url": "https://github.com/webappbangalore/parkinhost/issues"
+  },
+  "homepage": "https://github.com/webappbangalore/parkinhost#readme"
+}
